@@ -1,0 +1,134 @@
+{
+  "report_type": "weekly",
+  "metal_type": "gold",
+  "report_date": "2025-12-21",
+  "period_start": "2025-12-15",
+  "period_end": "2025-12-21",
+  "statistics": {
+    "period_days": 7,
+    "unique_products_in_top_10": 11,
+    "average_price_per_gram": 240.60085714285714,
+    "price_volatility": 1.3625837501564748,
+    "price_trend": "stable",
+    "cheapest_products": [
+      {
+        "product_name": "250 гр. Златно Кюлче Valcambi Швейцария",
+        "url": "https://igold.bg/zlatno-kyulche-250-g-valcambi",
+        "product_type": "bar",
+        "total_weight_g": 250.0,
+        "purity_per_mille": 999.9,
+        "fine_gold_g": 250.0,
+        "price_bgn": 59618.0,
+        "price_eur": 30482.2,
+        "price_per_g_fine_bgn": 238.47,
+        "price_per_g_fine_eur": 121.93,
+        "buy_price_bgn": 58542.0,
+        "sell_price_bgn": 59618.0,
+        "spread_percentage": 1.8
+      },
+      {
+        "product_name": "100 гр. Златно Кюлче Argor-Heraeus Швейцария Холограмна Защита",
+        "url": "https://igold.bg/zlatno-kyulche-100-g-argor-heraeus-kinebar",
+        "product_type": "bar",
+        "total_weight_g": 100.0,
+        "purity_per_mille": 999.9,
+        "fine_gold_g": 100.0,
+        "price_bgn": 23889.0,
+        "price_eur": 12214.25,
+        "price_per_g_fine_bgn": 238.89,
+        "price_per_g_fine_eur": 122.14,
+        "buy_price_bgn": 23545.0,
+        "sell_price_bgn": 23889.0,
+        "spread_percentage": 1.44
+      },
+      {
+        "product_name": "100 гр. Златно Кюлче Valcambi Швейцария",
+        "url": "https://igold.bg/zlatno-kyulche-valcambi-100-g",
+        "product_type": "bar",
+        "total_weight_g": 100.0,
+        "purity_per_mille": 999.9,
+        "fine_gold_g": 100.0,
+        "price_bgn": 23889.0,
+        "price_eur": 12214.25,
+        "price_per_g_fine_bgn": 238.89,
+        "price_per_g_fine_eur": 122.14,
+        "buy_price_bgn": 23545.0,
+        "sell_price_bgn": 23889.0,
+        "spread_percentage": 1.44
+      },
+      {
+        "product_name": "50 гр. Златно Кюлче Valcambi Швейцария",
+        "url": "https://igold.bg/zlatno-kyulche-valcambi-50-g",
+        "product_type": "bar",
+        "total_weight_g": 50.0,
+        "purity_per_mille": 999.9,
+        "fine_gold_g": 50.0,
+        "price_bgn": 12064.0,
+        "price_eur": 6168.23,
+        "price_per_g_fine_bgn": 241.28,
+        "price_per_g_fine_eur": 123.36,
+        "buy_price_bgn": 11988.0,
+        "sell_price_bgn": 12064.0,
+        "spread_percentage": 0.63
+      },
+      {
+        "product_name": "50 гр. Златно Кюлче Argor- Heraeus Швейцария Холограмна Защита",
+        "url": "https://igold.bg/zlatno-kyulche-50-g-argor-heraeus-kinebar",
+        "product_type": "bar",
+        "total_weight_g": 50.0,
+        "purity_per_mille": 999.9,
+        "fine_gold_g": 50.0,
+        "price_bgn": 12075.0,
+        "price_eur": 6173.85,
+        "price_per_g_fine_bgn": 241.5,
+        "price_per_g_fine_eur": 123.48,
+        "buy_price_bgn": 12000.0,
+        "sell_price_bgn": 12075.0,
+        "spread_percentage": 0.62
+      }
+    ],
+    "product_type_breakdown": {
+      "bars": 44,
+      "coins": 26
+    },
+    "daily_top_10_averages": [
+      {
+        "date": "2025-12-21",
+        "average_price": 241.632,
+        "top_10_count": 10
+      },
+      {
+        "date": "2025-12-20",
+        "average_price": 241.632,
+        "top_10_count": 10
+      },
+      {
+        "date": "2025-12-19",
+        "average_price": 240.776,
+        "top_10_count": 10
+      },
+      {
+        "date": "2025-12-18",
+        "average_price": 240.643,
+        "top_10_count": 10
+      },
+      {
+        "date": "2025-12-17",
+        "average_price": 240.383,
+        "top_10_count": 10
+      },
+      {
+        "date": "2025-12-16",
+        "average_price": 237.725,
+        "top_10_count": 10
+      },
+      {
+        "date": "2025-12-15",
+        "average_price": 241.415,
+        "top_10_count": 10
+      }
+    ],
+    "trend_percentage": 0.08988670960794191
+  },
+  "data_points": 7
+}
