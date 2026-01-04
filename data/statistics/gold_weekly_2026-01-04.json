@@ -1,0 +1,134 @@
+{
+  "report_type": "weekly",
+  "metal_type": "gold",
+  "report_date": "2026-01-04",
+  "period_start": "2025-12-29",
+  "period_end": "2026-01-04",
+  "statistics": {
+    "period_days": 7,
+    "unique_products_in_top_10": 11,
+    "average_price_per_gram": 242.28757142857143,
+    "price_volatility": 2.746906433131813,
+    "price_trend": "decreasing",
+    "cheapest_products": [
+      {
+        "product_name": "250 гр. Златно Кюлче Valcambi Швейцария",
+        "url": "https://igold.bg/zlatno-kyulche-250-g-valcambi",
+        "product_type": "bar",
+        "total_weight_g": 250.0,
+        "purity_per_mille": 999.9,
+        "fine_gold_g": 250.0,
+        "price_bgn": 59461.0,
+        "price_eur": 30401.93,
+        "price_per_g_fine_bgn": 237.84,
+        "price_per_g_fine_eur": 121.61,
+        "buy_price_bgn": 58388.0,
+        "sell_price_bgn": 59461.0,
+        "spread_percentage": 1.8
+      },
+      {
+        "product_name": "100 гр. Златно Кюлче Argor-Heraeus Швейцария Холограмна Защита",
+        "url": "https://igold.bg/zlatno-kyulche-100-g-argor-heraeus-kinebar",
+        "product_type": "bar",
+        "total_weight_g": 100.0,
+        "purity_per_mille": 999.9,
+        "fine_gold_g": 100.0,
+        "price_bgn": 23826.0,
+        "price_eur": 12182.04,
+        "price_per_g_fine_bgn": 238.26,
+        "price_per_g_fine_eur": 121.82,
+        "buy_price_bgn": 23483.0,
+        "sell_price_bgn": 23826.0,
+        "spread_percentage": 1.44
+      },
+      {
+        "product_name": "100 гр. Златно Кюлче Valcambi Швейцария",
+        "url": "https://igold.bg/zlatno-kyulche-valcambi-100-g",
+        "product_type": "bar",
+        "total_weight_g": 100.0,
+        "purity_per_mille": 999.9,
+        "fine_gold_g": 100.0,
+        "price_bgn": 23826.0,
+        "price_eur": 12182.04,
+        "price_per_g_fine_bgn": 238.26,
+        "price_per_g_fine_eur": 121.82,
+        "buy_price_bgn": 23483.0,
+        "sell_price_bgn": 23826.0,
+        "spread_percentage": 1.44
+      },
+      {
+        "product_name": "50 гр. Златно Кюлче Valcambi Швейцария",
+        "url": "https://igold.bg/zlatno-kyulche-valcambi-50-g",
+        "product_type": "bar",
+        "total_weight_g": 50.0,
+        "purity_per_mille": 999.9,
+        "fine_gold_g": 50.0,
+        "price_bgn": 12032.0,
+        "price_eur": 6151.86,
+        "price_per_g_fine_bgn": 240.64,
+        "price_per_g_fine_eur": 123.04,
+        "buy_price_bgn": 11956.0,
+        "sell_price_bgn": 12032.0,
+        "spread_percentage": 0.63
+      },
+      {
+        "product_name": "50 гр. Златно Кюлче Argor- Heraeus Швейцария Холограмна Защита",
+        "url": "https://igold.bg/zlatno-kyulche-50-g-argor-heraeus-kinebar",
+        "product_type": "bar",
+        "total_weight_g": 50.0,
+        "purity_per_mille": 999.9,
+        "fine_gold_g": 50.0,
+        "price_bgn": 12043.0,
+        "price_eur": 6157.49,
+        "price_per_g_fine_bgn": 240.86,
+        "price_per_g_fine_eur": 123.15,
+        "buy_price_bgn": 11968.0,
+        "sell_price_bgn": 12043.0,
+        "spread_percentage": 0.62
+      }
+    ],
+    "product_type_breakdown": {
+      "bars": 50,
+      "coins": 20
+    },
+    "daily_top_10_averages": [
+      {
+        "date": "2026-01-04",
+        "average_price": 240.995,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-03",
+        "average_price": 240.995,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-02",
+        "average_price": 243.62,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-01",
+        "average_price": 240.064,
+        "top_10_count": 10
+      },
+      {
+        "date": "2025-12-31",
+        "average_price": 240.35999999999999,
+        "top_10_count": 10
+      },
+      {
+        "date": "2025-12-30",
+        "average_price": 242.083,
+        "top_10_count": 10
+      },
+      {
+        "date": "2025-12-29",
+        "average_price": 247.896,
+        "top_10_count": 10
+      }
+    ],
+    "trend_percentage": -2.7838287023590467
+  },
+  "data_points": 7
+}
