@@ -1,0 +1,58 @@
+{
+  "report_type": "monthly",
+  "metal_type": "silver",
+  "report_date": "2026-02-01",
+  "period_start": "2026-01-03",
+  "period_end": "2026-02-01",
+  "statistics": {
+    "period_days": 30,
+    "unique_products_in_top_10": 22,
+    "average_price_per_gram": 7.124,
+    "price_volatility": 0.47178130526759965,
+    "price_trend": "increasing",
+    "cheapest_products": [],
+    "product_type_breakdown": {
+      "bars": 29,
+      "coins": 181
+    },
+    "daily_top_10_averages": [
+      {
+        "date": "2026-01-23",
+        "average_price": 7.799,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-22",
+        "average_price": 7.494,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-21",
+        "average_price": 7.325,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-20",
+        "average_price": 7.408,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-19",
+        "average_price": 7.7010000000000005,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-18",
+        "average_price": 7.199,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-17",
+        "average_price": 7.475,
+        "top_10_count": 10
+      }
+    ],
+    "trend_percentage": 11.71751898008882
+  },
+  "data_points": 30
+}

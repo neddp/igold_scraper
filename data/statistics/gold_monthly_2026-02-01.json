@@ -1,0 +1,58 @@
+{
+  "report_type": "monthly",
+  "metal_type": "gold",
+  "report_date": "2026-02-01",
+  "period_start": "2026-01-03",
+  "period_end": "2026-02-01",
+  "statistics": {
+    "period_days": 30,
+    "unique_products_in_top_10": 13,
+    "average_price_per_gram": 256.4977619047619,
+    "price_volatility": 9.205846299524895,
+    "price_trend": "increasing",
+    "cheapest_products": [],
+    "product_type_breakdown": {
+      "bars": 146,
+      "coins": 64
+    },
+    "daily_top_10_averages": [
+      {
+        "date": "2026-01-23",
+        "average_price": 275.594,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-22",
+        "average_price": 270.199,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-21",
+        "average_price": 271.182,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-20",
+        "average_price": 263.897,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-19",
+        "average_price": 262.615,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-18",
+        "average_price": 259.049,
+        "top_10_count": 10
+      },
+      {
+        "date": "2026-01-17",
+        "average_price": 259.049,
+        "top_10_count": 10
+      }
+    ],
+    "trend_percentage": 14.356729392725986
+  },
+  "data_points": 30
+}
